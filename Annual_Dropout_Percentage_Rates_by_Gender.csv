@@ -1,0 +1,925 @@
+District ID,District Name,School Year,Female,Male
+279,Amistad Academy District,2009-10,3.2,3.3
+002,Ansonia School District,2009-10,2.9,2.8
+244,Area Cooperative Educational Services,2009-10,0.0,0.0
+004,Avon School District,2009-10,0.4,0.2
+007,Berlin School District,2009-10,1.6,1.8
+009,Bethel School District,2009-10,0.4,0.0
+011,Bloomfield School District,2009-10,3.5,2.4
+012,Bolton School District,2009-10,0.0,0.8
+014,Branford School District,2009-10,0.2,0.8
+015,Bridgeport School District,2009-10,7.8,9.4
+017,Bristol School District,2009-10,1.7,2.0
+018,Brookfield School District,2009-10,1.2,1.4
+023,Canton School District,2009-10,0.0,0.4
+241,Capitol Region Education Council,2009-10,0.0,0.6
+025,Cheshire School District,2009-10,0.1,0.2
+027,Clinton School District,2009-10,1.1,0.4
+028,Colchester School District,2009-10,0.6,1.2
+268,Common Ground High School District,2009-10,1.2,0.0
+900,Connecticut Technical High School System,2009-10,0.4,0.2
+032,Coventry School District,2009-10,0.4,0.4
+033,Cromwell School District,2009-10,0.0,0.7
+034,Danbury School District,2009-10,3.8,4.5
+035,Darien School District,2009-10,0.0,0.0
+037,Derby School District,2009-10,3.3,5.3
+040,East Granby School District,2009-10,0.0,2.3
+041,East Haddam School District,2009-10,1.3,1.1
+042,East Hampton School District,2009-10,0.3,1.1
+043,East Hartford School District,2009-10,3.4,3.0
+044,East Haven School District,2009-10,0.2,1.1
+045,East Lyme School District,2009-10,0.5,1.2
+047,East Windsor School District,2009-10,1.1,2.0
+253,Eastern Connecticut Regional Educational Service Center,2009-10,0.0,0.0
+048,Ellington School District,2009-10,0.3,0.8
+289,Elm City College Preparatory School,2009-10,0.0,0.0
+049,Enfield School District,2009-10,1.0,3.0
+272,Explorations District,2009-10,5.9,10.3
+051,Fairfield School District,2009-10,0.5,1.7
+052,Farmington School District,2009-10,0.8,0.7
+054,Glastonbury School District,2009-10,0.6,0.9
+056,Granby School District,2009-10,0.6,0.3
+057,Greenwich School District,2009-10,0.5,0.3
+058,Griswold School District,2009-10,3.0,2.7
+059,Groton School District,2009-10,0.6,0.5
+060,Guilford School District,2009-10,0.2,0.0
+062,Hamden School District,2009-10,0.5,0.8
+064,Hartford School District,2009-10,6.6,7.7
+069,Killingly School District,2009-10,6.4,8.4
+071,Lebanon School District,2009-10,0.0,0.9
+072,Ledyard School District,2009-10,0.6,1.2
+073,Lisbon School District,2009-10,7.1,12.5
+074,Litchfield School District,2009-10,0.0,0.5
+076,Madison School District,2009-10,0.2,0.2
+077,Manchester School District,2009-10,1.0,2.2
+080,Meriden School District,2009-10,1.5,3.2
+083,Middletown School District,2009-10,0.6,1.0
+084,Milford School District,2009-10,1.3,1.3
+085,Monroe School District,2009-10,0.0,0.0
+086,Montville School District,2009-10,1.8,0.7
+088,Naugatuck School District,2009-10,1.1,0.7
+089,New Britain School District,2009-10,5.7,6.8
+090,New Canaan School District,2009-10,0.3,0.0
+091,New Fairfield School District,2009-10,0.2,0.2
+093,New Haven School District,2009-10,5.5,8.1
+095,New London School District,2009-10,2.2,2.7
+096,New Milford School District,2009-10,1.1,1.8
+094,Newington School District,2009-10,0.3,0.4
+097,Newtown School District,2009-10,0.5,0.5
+099,North Branford School District,2009-10,1.1,0.9
+101,North Haven School District,2009-10,0.2,1.2
+102,North Stonington School District,2009-10,0.0,1.7
+103,Norwalk School District,2009-10,0.6,1.5
+901,Norwich Free Academy,2009-10,0.9,1.6
+104,Norwich School District,2009-10,0.0,6.8
+106,Old Saybrook School District,2009-10,0.7,0.4
+108,Oxford School District,2009-10,0.0,0.0
+109,Plainfield School District,2009-10,3.7,5.0
+110,Plainville School District,2009-10,1.6,2.1
+111,Plymouth School District,2009-10,0.8,1.9
+113,Portland School District,2009-10,1.2,0.5
+116,Putnam School District,2009-10,3.3,2.8
+201,Regional School District 01,2009-10,0.8,2.7
+204,Regional School District 04,2009-10,0.3,2.2
+205,Regional School District 05,2009-10,0.1,0.2
+206,Regional School District 06,2009-10,0.0,0.6
+207,Regional School District 07,2009-10,0.0,0.0
+208,Regional School District 08,2009-10,0.8,1.2
+209,Regional School District 09,2009-10,0.2,1.1
+210,Regional School District 10,2009-10,0.5,0.2
+211,Regional School District 11,2009-10,1.4,0.0
+212,Regional School District 12,2009-10,0.0,0.0
+213,Regional School District 13,2009-10,0.7,0.0
+214,Regional School District 14,2009-10,0.2,0.3
+215,Regional School District 15,2009-10,0.4,1.1
+216,Regional School District 16,2009-10,0.3,0.5
+217,Regional School District 17,2009-10,0.0,0.0
+218,Regional School District 18,2009-10,0.9,0.0
+219,Regional School District 19,2009-10,1.0,1.0
+118,Ridgefield School District,2009-10,0.0,0.4
+119,Rocky Hill School District,2009-10,0.0,0.3
+124,Seymour School District,2009-10,1.4,1.5
+126,Shelton School District,2009-10,1.1,2.3
+128,Simsbury School District,2009-10,0.5,0.0
+129,Somers School District,2009-10,0.7,0.3
+132,South Windsor School District,2009-10,1.4,1.3
+131,Southington School District,2009-10,1.0,1.3
+134,Stafford School District,2009-10,2.2,4.6
+282,Stamford Academy,2009-10,1.7,2.8
+135,Stamford School District,2009-10,2.5,2.6
+137,Stonington School District,2009-10,1.0,1.0
+138,Stratford School District,2009-10,1.6,0.6
+139,Suffield School District,2009-10,0.0,0.2
+269,The Bridge Academy District,2009-10,0.0,0.0
+902,The Gilbert School,2009-10,2.4,5.3
+140,Thomaston School District,2009-10,2.2,1.7
+141,Thompson School District,2009-10,0.5,2.7
+142,Tolland School District,2009-10,0.0,0.2
+143,Torrington School District,2009-10,3.2,6.0
+144,Trumbull School District,2009-10,0.1,0.1
+146,Vernon School District,2009-10,3.4,3.6
+148,Wallingford School District,2009-10,1.3,1.7
+151,Waterbury School District,2009-10,6.9,7.7
+152,Waterford School District,2009-10,0.4,0.8
+153,Watertown School District,2009-10,1.2,1.0
+155,West Hartford School District,2009-10,1.1,1.7
+156,West Haven School District,2009-10,1.5,2.6
+154,Westbrook School District,2009-10,0.0,0.0
+157,Weston School District,2009-10,0.0,0.0
+158,Westport School District,2009-10,0.1,0.3
+159,Wethersfield School District,2009-10,1.4,2.5
+161,Wilton School District,2009-10,0.3,0.0
+163,Windham School District,2009-10,6.1,8.8
+165,Windsor Locks School District,2009-10,3.0,3.2
+164,Windsor School District,2009-10,1.5,1.7
+166,Wolcott School District,2009-10,0.0,0.0
+903,Woodstock Academy,2009-10,0.5,1.3
+279,Amistad Academy District,2008-09,1.9,2.3
+002,Ansonia School District,2008-09,1.1,3.0
+244,Area Cooperative Educational Services,2008-09,0.0,0.0
+004,Avon School District,2008-09,0.2,0.2
+007,Berlin School District,2008-09,0.8,1.9
+009,Bethel School District,2008-09,0.2,0.2
+011,Bloomfield School District,2008-09,2.0,4.0
+012,Bolton School District,2008-09,0.0,0.0
+014,Branford School District,2008-09,0.4,0.5
+015,Bridgeport School District,2008-09,7.2,11.7
+017,Bristol School District,2008-09,1.2,1.7
+018,Brookfield School District,2008-09,0.2,0.4
+023,Canton School District,2008-09,0.8,1.9
+241,Capitol Region Education Council,2008-09,0.7,0.0
+025,Cheshire School District,2008-09,0.3,0.7
+027,Clinton School District,2008-09,4.6,3.5
+028,Colchester School District,2008-09,0.2,0.4
+268,Common Ground High School District,2008-09,0.0,1.3
+900,Connecticut Technical High School System,2008-09,0.3,0.2
+032,Coventry School District,2008-09,0.0,1.4
+033,Cromwell School District,2008-09,0.0,1.1
+034,Danbury School District,2008-09,1.6,3.1
+035,Darien School District,2008-09,0.2,0.2
+037,Derby School District,2008-09,4.0,2.7
+040,East Granby School District,2008-09,1.6,4.9
+041,East Haddam School District,2008-09,2.2,3.1
+042,East Hampton School District,2008-09,0.0,0.7
+043,East Hartford School District,2008-09,2.7,5.5
+044,East Haven School District,2008-09,0.4,0.6
+045,East Lyme School District,2008-09,0.6,0.7
+047,East Windsor School District,2008-09,2.6,2.8
+253,Eastern Connecticut Regional Educational Service Center,2008-09,0.0,0.0
+048,Ellington School District,2008-09,0.0,0.8
+289,Elm City College Preparatory School,2008-09,0.0,0.0
+049,Enfield School District,2008-09,1.5,3.2
+272,Explorations District,2008-09,4.1,8.3
+051,Fairfield School District,2008-09,0.4,1.0
+052,Farmington School District,2008-09,0.4,0.9
+054,Glastonbury School District,2008-09,0.2,0.4
+056,Granby School District,2008-09,0.6,0.5
+057,Greenwich School District,2008-09,0.3,0.6
+058,Griswold School District,2008-09,4.1,5.8
+059,Groton School District,2008-09,2.4,1.3
+060,Guilford School District,2008-09,0.7,0.4
+062,Hamden School District,2008-09,1.4,2.0
+064,Hartford School District,2008-09,9.8,11.1
+069,Killingly School District,2008-09,3.4,3.7
+071,Lebanon School District,2008-09,0.0,1.5
+072,Ledyard School District,2008-09,1.1,1.8
+073,Lisbon School District,2008-09,**,**
+074,Litchfield School District,2008-09,0.0,1.5
+076,Madison School District,2008-09,0.2,0.5
+077,Manchester School District,2008-09,0.8,2.0
+080,Meriden School District,2008-09,2.6,3.5
+083,Middletown School District,2008-09,0.3,2.0
+084,Milford School District,2008-09,1.5,1.6
+085,Monroe School District,2008-09,0.0,0.1
+086,Montville School District,2008-09,0.7,1.0
+088,Naugatuck School District,2008-09,0.5,2.3
+089,New Britain School District,2008-09,8.0,7.3
+090,New Canaan School District,2008-09,0.2,0.5
+091,New Fairfield School District,2008-09,0.0,1.6
+093,New Haven School District,2008-09,7.8,9.4
+095,New London School District,2008-09,1.0,2.7
+096,New Milford School District,2008-09,1.0,2.5
+094,Newington School District,2008-09,0.4,0.9
+097,Newtown School District,2008-09,1.0,1.5
+099,North Branford School District,2008-09,0.9,4.9
+101,North Haven School District,2008-09,0.2,0.7
+102,North Stonington School District,2008-09,0.0,1.6
+103,Norwalk School District,2008-09,1.5,2.1
+901,Norwich Free Academy,2008-09,2.1,2.2
+104,Norwich School District,2008-09,15.0,13.7
+106,Old Saybrook School District,2008-09,0.0,1.1
+108,Oxford School District,2008-09,0.0,0.9
+109,Plainfield School District,2008-09,4.9,4.7
+110,Plainville School District,2008-09,1.7,2.3
+111,Plymouth School District,2008-09,2.2,1.7
+113,Portland School District,2008-09,1.1,1.7
+116,Putnam School District,2008-09,3.6,6.3
+201,Regional School District 01,2008-09,1.1,1.8
+204,Regional School District 04,2008-09,2.4,3.4
+205,Regional School District 05,2008-09,0.5,0.5
+206,Regional School District 06,2008-09,0.5,2.2
+207,Regional School District 07,2008-09,0.0,0.0
+208,Regional School District 08,2008-09,0.2,1.1
+209,Regional School District 09,2008-09,0.4,0.2
+210,Regional School District 10,2008-09,0.5,0.7
+211,Regional School District 11,2008-09,1.2,2.5
+212,Regional School District 12,2008-09,0.0,0.0
+213,Regional School District 13,2008-09,0.4,0.4
+214,Regional School District 14,2008-09,1.6,1.0
+215,Regional School District 15,2008-09,1.0,1.5
+216,Regional School District 16,2008-09,0.5,1.5
+217,Regional School District 17,2008-09,0.9,0.0
+218,Regional School District 18,2008-09,0.5,0.4
+219,Regional School District 19,2008-09,1.0,2.4
+118,Ridgefield School District,2008-09,0.3,0.5
+119,Rocky Hill School District,2008-09,0.5,1.0
+124,Seymour School District,2008-09,1.2,1.0
+126,Shelton School District,2008-09,2.1,2.7
+128,Simsbury School District,2008-09,0.3,0.7
+129,Somers School District,2008-09,0.7,1.4
+132,South Windsor School District,2008-09,0.4,1.5
+131,Southington School District,2008-09,0.9,1.6
+134,Stafford School District,2008-09,3.3,3.7
+282,Stamford Academy,2008-09,0.0,3.7
+135,Stamford School District,2008-09,1.9,3.1
+137,Stonington School District,2008-09,1.6,2.9
+138,Stratford School District,2008-09,0.3,1.3
+139,Suffield School District,2008-09,0.5,1.2
+269,The Bridge Academy District,2008-09,2.2,1.5
+902,The Gilbert School,2008-09,2.5,5.1
+140,Thomaston School District,2008-09,2.8,0.0
+141,Thompson School District,2008-09,0.5,4.1
+142,Tolland School District,2008-09,0.0,0.0
+143,Torrington School District,2008-09,2.2,1.4
+144,Trumbull School District,2008-09,0.1,0.3
+146,Vernon School District,2008-09,3.4,4.9
+148,Wallingford School District,2008-09,1.5,2.2
+151,Waterbury School District,2008-09,4.7,6.3
+152,Waterford School District,2008-09,0.2,0.6
+153,Watertown School District,2008-09,1.4,3.6
+155,West Hartford School District,2008-09,1.3,1.8
+156,West Haven School District,2008-09,1.0,2.1
+154,Westbrook School District,2008-09,1.4,0.0
+157,Weston School District,2008-09,0.0,0.3
+158,Westport School District,2008-09,0.6,0.4
+159,Wethersfield School District,2008-09,1.8,3.4
+161,Wilton School District,2008-09,0.0,0.3
+163,Windham School District,2008-09,4.8,4.4
+165,Windsor Locks School District,2008-09,1.1,3.6
+164,Windsor School District,2008-09,1.5,3.2
+166,Wolcott School District,2008-09,0.4,1.3
+903,Woodstock Academy,2008-09,1.0,1.7
+002,Ansonia School District,2007-08,0.5,2.6
+244,Area Cooperative Educational Services,2007-08,0.0,0.0
+004,Avon School District,2007-08,0.4,0.4
+007,Berlin School District,2007-08,1.8,2.3
+009,Bethel School District,2007-08,0.4,0.4
+011,Bloomfield School District,2007-08,0.8,1.7
+012,Bolton School District,2007-08,0.0,1.6
+014,Branford School District,2007-08,0.9,1.4
+015,Bridgeport School District,2007-08,5.4,8.2
+017,Bristol School District,2007-08,0.7,1.5
+018,Brookfield School District,2007-08,0.0,0.0
+023,Canton School District,2007-08,0.8,0.4
+241,Capitol Region Education Council,2007-08,0.0,0.0
+025,Cheshire School District,2007-08,0.5,0.6
+027,Clinton School District,2007-08,1.5,5.6
+028,Colchester School District,2007-08,0.0,1.0
+268,Common Ground High School District,2007-08,0.0,0.0
+900,Connecticut Technical High School System,2007-08,0.5,0.2
+032,Coventry School District,2007-08,0.4,1.7
+033,Cromwell School District,2007-08,0.3,0.8
+034,Danbury School District,2007-08,1.6,3.3
+035,Darien School District,2007-08,0.2,0.3
+037,Derby School District,2007-08,2.4,3.1
+040,East Granby School District,2007-08,0.8,0.8
+041,East Haddam School District,2007-08,0.0,2.0
+042,East Hampton School District,2007-08,0.6,0.4
+043,East Hartford School District,2007-08,4.3,4.0
+044,East Haven School District,2007-08,0.4,0.9
+045,East Lyme School District,2007-08,1.0,1.6
+047,East Windsor School District,2007-08,0.4,0.9
+253,Eastern Connecticut Regional Educational Service Center,2007-08,0.0,0.0
+048,Ellington School District,2007-08,1.6,0.8
+049,Enfield School District,2007-08,1.8,3.2
+272,Explorations District,2007-08,0.0,0.0
+051,Fairfield School District,2007-08,1.2,1.4
+052,Farmington School District,2007-08,0.9,0.6
+054,Glastonbury School District,2007-08,0.3,0.8
+056,Granby School District,2007-08,0.6,0.2
+057,Greenwich School District,2007-08,0.2,1.4
+058,Griswold School District,2007-08,2.7,5.0
+059,Groton School District,2007-08,0.8,2.2
+060,Guilford School District,2007-08,0.7,1.1
+062,Hamden School District,2007-08,1.8,2.0
+064,Hartford School District,2007-08,4.5,4.9
+069,Killingly School District,2007-08,3.5,7.7
+071,Lebanon School District,2007-08,1.3,1.1
+072,Ledyard School District,2007-08,0.0,1.0
+074,Litchfield School District,2007-08,1.4,0.5
+076,Madison School District,2007-08,0.2,0.2
+077,Manchester School District,2007-08,1.0,2.0
+080,Meriden School District,2007-08,1.2,3.0
+083,Middletown School District,2007-08,0.7,1.2
+084,Milford School District,2007-08,1.4,2.3
+085,Monroe School District,2007-08,0.1,0.0
+086,Montville School District,2007-08,2.3,1.0
+088,Naugatuck School District,2007-08,1.1,1.6
+089,New Britain School District,2007-08,5.8,7.9
+090,New Canaan School District,2007-08,0.0,0.3
+091,New Fairfield School District,2007-08,0.5,0.8
+093,New Haven School District,2007-08,4.7,6.8
+095,New London School District,2007-08,3.4,2.1
+096,New Milford School District,2007-08,0.8,2.6
+094,Newington School District,2007-08,0.3,1.3
+097,Newtown School District,2007-08,2.3,1.5
+099,North Branford School District,2007-08,0.8,3.0
+101,North Haven School District,2007-08,0.6,1.5
+102,North Stonington School District,2007-08,3.4,3.2
+103,Norwalk School District,2007-08,1.4,1.6
+901,Norwich Free Academy,2007-08,2.4,2.5
+104,Norwich School District,2007-08,22.9,9.1
+106,Old Saybrook School District,2007-08,0.4,0.4
+108,Oxford School District,2007-08,0.0,0.0
+109,Plainfield School District,2007-08,2.1,4.7
+110,Plainville School District,2007-08,2.5,2.4
+111,Plymouth School District,2007-08,2.3,2.0
+113,Portland School District,2007-08,0.0,0.6
+116,Putnam School District,2007-08,5.7,7.7
+201,Regional School District 01,2007-08,0.0,0.7
+204,Regional School District 04,2007-08,1.3,2.0
+205,Regional School District 05,2007-08,0.2,1.3
+206,Regional School District 06,2007-08,0.9,0.5
+207,Regional School District 07,2007-08,0.2,0.3
+208,Regional School District 08,2007-08,0.4,0.6
+209,Regional School District 09,2007-08,0.4,0.2
+210,Regional School District 10,2007-08,0.5,0.5
+211,Regional School District 11,2007-08,0.0,1.2
+212,Regional School District 12,2007-08,1.0,0.0
+213,Regional School District 13,2007-08,0.0,0.0
+214,Regional School District 14,2007-08,1.2,1.0
+215,Regional School District 15,2007-08,1.2,1.8
+216,Regional School District 16,2007-08,0.3,1.7
+217,Regional School District 17,2007-08,0.3,0.0
+218,Regional School District 18,2007-08,0.8,0.4
+219,Regional School District 19,2007-08,1.3,1.2
+118,Ridgefield School District,2007-08,0.3,0.7
+119,Rocky Hill School District,2007-08,0.5,1.0
+124,Seymour School District,2007-08,1.8,2.9
+126,Shelton School District,2007-08,0.8,2.8
+128,Simsbury School District,2007-08,0.4,0.4
+129,Somers School District,2007-08,0.7,1.1
+132,South Windsor School District,2007-08,1.4,1.7
+131,Southington School District,2007-08,1.2,1.7
+134,Stafford School District,2007-08,3.8,2.7
+282,Stamford Academy,2007-08,1.9,2.6
+135,Stamford School District,2007-08,1.8,2.3
+137,Stonington School District,2007-08,1.3,2.4
+138,Stratford School District,2007-08,0.9,0.9
+139,Suffield School District,2007-08,0.4,1.8
+269,The Bridge Academy District,2007-08,0.0,0.0
+902,The Gilbert School,2007-08,2.9,4.0
+140,Thomaston School District,2007-08,0.6,1.0
+141,Thompson School District,2007-08,2.9,4.1
+142,Tolland School District,2007-08,0.5,0.5
+143,Torrington School District,2007-08,2.7,5.1
+144,Trumbull School District,2007-08,0.2,0.5
+146,Vernon School District,2007-08,3.1,4.3
+148,Wallingford School District,2007-08,1.6,2.6
+151,Waterbury School District,2007-08,0.8,1.0
+152,Waterford School District,2007-08,1.3,1.9
+153,Watertown School District,2007-08,1.2,1.8
+155,West Hartford School District,2007-08,1.0,1.7
+156,West Haven School District,2007-08,2.2,3.8
+154,Westbrook School District,2007-08,0.0,0.6
+157,Weston School District,2007-08,0.0,0.0
+158,Westport School District,2007-08,0.0,0.7
+159,Wethersfield School District,2007-08,2.3,4.1
+161,Wilton School District,2007-08,0.3,0.0
+162,Winchester School District,2007-08,25.0,0.0
+163,Windham School District,2007-08,3.6,4.5
+165,Windsor Locks School District,2007-08,1.1,1.6
+164,Windsor School District,2007-08,1.8,1.8
+166,Wolcott School District,2007-08,0.7,1.3
+903,Woodstock Academy,2007-08,0.7,2.4
+002,Ansonia School District,2006-07,1.4,2.1
+244,Area Cooperative Educational Services,2006-07,7.1,8.0
+004,Avon School District,2006-07,0.0,0.4
+007,Berlin School District,2006-07,1.2,1.1
+009,Bethel School District,2006-07,0.0,0.6
+011,Bloomfield School District,2006-07,1.2,2.6
+012,Bolton School District,2006-07,0.7,0.7
+014,Branford School District,2006-07,0.8,2.3
+015,Bridgeport School District,2006-07,6.4,8.9
+017,Bristol School District,2006-07,1.0,0.6
+018,Brookfield School District,2006-07,0.0,0.2
+023,Canton School District,2006-07,0.0,0.0
+241,Capitol Region Education Council,2006-07,0.0,0.0
+025,Cheshire School District,2006-07,0.5,0.7
+027,Clinton School District,2006-07,1.2,1.5
+028,Colchester School District,2006-07,0.9,0.8
+268,Common Ground High School District,2006-07,1.3,0.0
+900,Connecticut Technical High School System,2006-07,2.8,1.7
+032,Coventry School District,2006-07,0.0,1.7
+033,Cromwell School District,2006-07,1.1,0.7
+034,Danbury School District,2006-07,1.1,3.3
+035,Darien School District,2006-07,0.0,0.0
+037,Derby School District,2006-07,0.0,2.8
+040,East Granby School District,2006-07,0.8,1.7
+041,East Haddam School District,2006-07,1.5,2.7
+042,East Hampton School District,2006-07,0.6,0.8
+043,East Hartford School District,2006-07,3.3,3.3
+044,East Haven School District,2006-07,0.4,0.4
+045,East Lyme School District,2006-07,0.9,1.6
+047,East Windsor School District,2006-07,1.7,2.1
+048,Ellington School District,2006-07,0.3,0.8
+049,Enfield School District,2006-07,1.8,3.3
+272,Explorations District,2006-07,4.8,0.0
+051,Fairfield School District,2006-07,0.6,1.0
+052,Farmington School District,2006-07,0.7,1.2
+054,Glastonbury School District,2006-07,0.0,0.2
+056,Granby School District,2006-07,0.0,0.3
+057,Greenwich School District,2006-07,0.7,0.7
+058,Griswold School District,2006-07,2.0,3.4
+059,Groton School District,2006-07,1.1,0.4
+060,Guilford School District,2006-07,0.3,0.5
+062,Hamden School District,2006-07,1.0,2.2
+064,Hartford School District,2006-07,2.4,2.9
+069,Killingly School District,2006-07,2.5,3.9
+071,Lebanon School District,2006-07,0.0,0.4
+072,Ledyard School District,2006-07,1.2,1.2
+074,Litchfield School District,2006-07,0.4,1.4
+076,Madison School District,2006-07,0.0,0.2
+077,Manchester School District,2006-07,0.8,0.9
+080,Meriden School District,2006-07,1.5,2.6
+083,Middletown School District,2006-07,0.3,0.5
+084,Milford School District,2006-07,1.8,1.6
+085,Monroe School District,2006-07,0.0,0.5
+086,Montville School District,2006-07,0.2,1.4
+088,Naugatuck School District,2006-07,1.9,1.5
+089,New Britain School District,2006-07,4.4,3.9
+090,New Canaan School District,2006-07,0.7,0.3
+091,New Fairfield School District,2006-07,0.2,1.0
+093,New Haven School District,2006-07,5.3,5.9
+095,New London School District,2006-07,1.1,1.2
+096,New Milford School District,2006-07,0.9,0.4
+094,Newington School District,2006-07,0.1,0.4
+097,Newtown School District,2006-07,0.6,1.1
+099,North Branford School District,2006-07,0.9,1.7
+101,North Haven School District,2006-07,0.6,1.8
+102,North Stonington School District,2006-07,0.0,1.8
+103,Norwalk School District,2006-07,0.7,1.1
+901,Norwich Free Academy,2006-07,0.8,1.1
+104,Norwich School District,2006-07,6.1,21.4
+106,Old Saybrook School District,2006-07,0.0,0.4
+109,Plainfield School District,2006-07,3.7,4.0
+110,Plainville School District,2006-07,0.9,0.9
+111,Plymouth School District,2006-07,2.7,4.1
+113,Portland School District,2006-07,1.6,1.1
+116,Putnam School District,2006-07,2.3,5.7
+201,Regional School District 01,2006-07,1.4,0.7
+204,Regional School District 04,2006-07,1.0,2.5
+205,Regional School District 05,2006-07,0.6,1.4
+206,Regional School District 06,2006-07,1.0,1.6
+207,Regional School District 07,2006-07,0.0,0.3
+208,Regional School District 08,2006-07,0.4,1.5
+209,Regional School District 09,2006-07,0.6,1.1
+210,Regional School District 10,2006-07,0.3,0.0
+211,Regional School District 11,2006-07,1.0,3.1
+212,Regional School District 12,2006-07,0.0,0.0
+213,Regional School District 13,2006-07,0.3,0.3
+214,Regional School District 14,2006-07,0.8,1.4
+215,Regional School District 15,2006-07,0.6,2.0
+216,Regional School District 16,2006-07,1.3,0.5
+217,Regional School District 17,2006-07,0.0,0.6
+218,Regional School District 18,2006-07,0.4,1.3
+219,Regional School District 19,2006-07,1.9,2.6
+118,Ridgefield School District,2006-07,0.0,0.1
+119,Rocky Hill School District,2006-07,1.3,0.3
+124,Seymour School District,2006-07,1.0,2.5
+126,Shelton School District,2006-07,1.5,2.1
+128,Simsbury School District,2006-07,0.6,0.5
+129,Somers School District,2006-07,1.0,1.1
+132,South Windsor School District,2006-07,0.6,0.2
+131,Southington School District,2006-07,0.9,1.4
+134,Stafford School District,2006-07,3.1,5.0
+282,Stamford Academy,2006-07,2.1,6.8
+135,Stamford School District,2006-07,1.3,2.1
+137,Stonington School District,2006-07,0.8,2.5
+138,Stratford School District,2006-07,0.3,1.8
+139,Suffield School District,2006-07,1.5,1.7
+269,The Bridge Academy District,2006-07,1.0,0.0
+902,The Gilbert School,2006-07,4.2,4.9
+140,Thomaston School District,2006-07,1.8,3.0
+141,Thompson School District,2006-07,1.0,1.9
+142,Tolland School District,2006-07,0.2,0.0
+143,Torrington School District,2006-07,2.2,3.9
+144,Trumbull School District,2006-07,0.1,0.1
+146,Vernon School District,2006-07,1.8,1.5
+148,Wallingford School District,2006-07,0.5,1.1
+151,Waterbury School District,2006-07,1.2,1.5
+152,Waterford School District,2006-07,0.6,1.3
+153,Watertown School District,2006-07,1.4,0.6
+155,West Hartford School District,2006-07,1.1,1.4
+156,West Haven School District,2006-07,0.7,1.0
+154,Westbrook School District,2006-07,0.0,0.7
+157,Weston School District,2006-07,0.0,0.0
+158,Westport School District,2006-07,0.3,0.2
+159,Wethersfield School District,2006-07,1.8,2.1
+161,Wilton School District,2006-07,0.0,0.3
+162,Winchester School District,2006-07,0.0,17.6
+163,Windham School District,2006-07,5.2,4.5
+165,Windsor Locks School District,2006-07,1.0,3.3
+164,Windsor School District,2006-07,2.6,2.1
+166,Wolcott School District,2006-07,0.4,1.8
+903,Woodstock Academy,2006-07,1.2,1.0
+002,Ansonia School District,2005-06,2.0,2.0
+244,Area Cooperative Educational Services,2005-06,0.0,6.9
+004,Avon School District,2005-06,0.0,0.0
+007,Berlin School District,2005-06,0.4,0.9
+009,Bethel School District,2005-06,0.0,0.0
+011,Bloomfield School District,2005-06,0.3,1.1
+012,Bolton School District,2005-06,0.0,0.0
+014,Branford School District,2005-06,0.8,1.2
+015,Bridgeport School District,2005-06,7.6,8.7
+017,Bristol School District,2005-06,0.8,0.8
+018,Brookfield School District,2005-06,0.6,0.4
+023,Canton School District,2005-06,1.2,1.6
+241,Capitol Region Education Council,2005-06,0.0,0.0
+025,Cheshire School District,2005-06,0.2,0.9
+027,Clinton School District,2005-06,0.0,0.0
+028,Colchester School District,2005-06,0.4,1.0
+268,Common Ground High School District,2005-06,0.0,0.0
+900,Connecticut Technical High School System,2005-06,0.5,0.4
+032,Coventry School District,2005-06,0.0,0.3
+033,Cromwell School District,2005-06,0.0,0.8
+034,Danbury School District,2005-06,1.7,3.6
+035,Darien School District,2005-06,0.0,0.0
+037,Derby School District,2005-06,1.0,2.3
+040,East Granby School District,2005-06,0.7,0.0
+041,East Haddam School District,2005-06,0.6,1.6
+042,East Hampton School District,2005-06,0.3,0.4
+043,East Hartford School District,2005-06,1.0,2.2
+044,East Haven School District,2005-06,0.0,0.0
+045,East Lyme School District,2005-06,1.2,2.0
+047,East Windsor School District,2005-06,0.0,2.9
+048,Ellington School District,2005-06,0.6,0.3
+049,Enfield School District,2005-06,0.5,3.1
+272,Explorations District,2005-06,0.0,2.9
+051,Fairfield School District,2005-06,0.6,0.8
+052,Farmington School District,2005-06,0.0,0.8
+054,Glastonbury School District,2005-06,0.4,0.0
+056,Granby School District,2005-06,0.3,0.6
+057,Greenwich School District,2005-06,0.6,0.9
+058,Griswold School District,2005-06,3.3,4.3
+059,Groton School District,2005-06,0.9,1.1
+060,Guilford School District,2005-06,0.3,0.7
+062,Hamden School District,2005-06,0.4,0.7
+064,Hartford School District,2005-06,4.3,7.9
+069,Killingly School District,2005-06,4.7,10.4
+071,Lebanon School District,2005-06,0.0,0.4
+072,Ledyard School District,2005-06,0.2,2.6
+074,Litchfield School District,2005-06,0.9,2.0
+076,Madison School District,2005-06,0.0,0.0
+077,Manchester School District,2005-06,1.2,1.6
+080,Meriden School District,2005-06,1.9,1.5
+083,Middletown School District,2005-06,0.6,1.6
+084,Milford School District,2005-06,2.3,2.3
+085,Monroe School District,2005-06,0.1,0.1
+086,Montville School District,2005-06,0.9,1.2
+088,Naugatuck School District,2005-06,1.3,2.1
+089,New Britain School District,2005-06,4.2,7.0
+090,New Canaan School District,2005-06,0.0,0.0
+091,New Fairfield School District,2005-06,0.4,0.4
+093,New Haven School District,2005-06,4.2,4.3
+095,New London School District,2005-06,0.6,2.0
+096,New Milford School District,2005-06,0.3,1.9
+094,Newington School District,2005-06,0.1,0.3
+097,Newtown School District,2005-06,0.5,1.4
+099,North Branford School District,2005-06,2.0,1.7
+101,North Haven School District,2005-06,0.5,0.2
+102,North Stonington School District,2005-06,1.5,1.5
+103,Norwalk School District,2005-06,0.8,0.5
+901,Norwich Free Academy,2005-06,1.0,1.9
+106,Old Saybrook School District,2005-06,0.0,0.0
+109,Plainfield School District,2005-06,2.0,4.3
+110,Plainville School District,2005-06,1.2,1.4
+111,Plymouth School District,2005-06,4.3,5.8
+113,Portland School District,2005-06,0.0,0.6
+116,Putnam School District,2005-06,2.4,3.9
+201,Regional School District 01,2005-06,2.9,2.2
+204,Regional School District 04,2005-06,0.0,1.4
+205,Regional School District 05,2005-06,0.6,0.9
+206,Regional School District 06,2005-06,0.4,1.0
+207,Regional School District 07,2005-06,0.0,0.6
+208,Regional School District 08,2005-06,2.3,2.5
+209,Regional School District 09,2005-06,0.0,0.4
+210,Regional School District 10,2005-06,0.3,1.4
+211,Regional School District 11,2005-06,0.9,0.0
+212,Regional School District 12,2005-06,0.0,0.0
+213,Regional School District 13,2005-06,12.7,17.8
+214,Regional School District 14,2005-06,0.0,0.8
+215,Regional School District 15,2005-06,1.7,1.3
+216,Regional School District 16,2005-06,1.3,2.5
+217,Regional School District 17,2005-06,0.0,0.3
+218,Regional School District 18,2005-06,0.0,0.0
+219,Regional School District 19,2005-06,0.9,2.6
+118,Ridgefield School District,2005-06,0.3,0.5
+119,Rocky Hill School District,2005-06,1.1,1.9
+124,Seymour School District,2005-06,2.1,3.9
+126,Shelton School District,2005-06,4.5,6.3
+128,Simsbury School District,2005-06,0.1,0.4
+129,Somers School District,2005-06,0.0,0.4
+132,South Windsor School District,2005-06,0.4,1.5
+131,Southington School District,2005-06,1.2,1.3
+134,Stafford School District,2005-06,1.7,1.5
+282,Stamford Academy,2005-06,0.0,0.0
+135,Stamford School District,2005-06,1.5,2.2
+137,Stonington School District,2005-06,1.6,1.0
+138,Stratford School District,2005-06,0.9,1.8
+139,Suffield School District,2005-06,0.0,1.1
+269,The Bridge Academy District,2005-06,1.7,7.5
+902,The Gilbert School,2005-06,2.7,2.4
+140,Thomaston School District,2005-06,2.4,3.7
+141,Thompson School District,2005-06,2.4,3.2
+142,Tolland School District,2005-06,0.2,0.9
+143,Torrington School District,2005-06,5.3,7.8
+144,Trumbull School District,2005-06,0.0,0.1
+146,Vernon School District,2005-06,1.9,2.1
+148,Wallingford School District,2005-06,0.3,0.7
+151,Waterbury School District,2005-06,2.5,2.9
+152,Waterford School District,2005-06,1.8,1.9
+153,Watertown School District,2005-06,0.4,1.6
+155,West Hartford School District,2005-06,1.0,1.2
+156,West Haven School District,2005-06,0.5,0.8
+154,Westbrook School District,2005-06,0.0,0.0
+157,Weston School District,2005-06,0.0,0.0
+158,Westport School District,2005-06,0.0,0.0
+159,Wethersfield School District,2005-06,1.2,1.6
+161,Wilton School District,2005-06,0.0,0.0
+162,Winchester School District,2005-06,14.3,22.2
+163,Windham School District,2005-06,1.3,1.9
+165,Windsor Locks School District,2005-06,3.6,2.1
+164,Windsor School District,2005-06,1.0,0.5
+166,Wolcott School District,2005-06,2.2,2.9
+903,Woodstock Academy,2005-06,0.5,2.2
+002,Ansonia School District,2004-05,2.9,2.7
+244,Area Cooperative Educational Services,2004-05,5.3,3.1
+004,Avon School District,2004-05,0.0,0.0
+007,Berlin School District,2004-05,0.4,1.1
+009,Bethel School District,2004-05,0.0,0.0
+011,Bloomfield School District,2004-05,1.7,2.4
+012,Bolton School District,2004-05,0.0,0.7
+014,Branford School District,2004-05,0.0,0.3
+015,Bridgeport School District,2004-05,5.7,7.4
+017,Bristol School District,2004-05,0.9,1.0
+018,Brookfield School District,2004-05,0.0,0.0
+023,Canton School District,2004-05,1.2,0.0
+241,Capitol Region Education Council,2004-05,0.0,0.0
+025,Cheshire School District,2004-05,0.4,1.1
+027,Clinton School District,2004-05,1.8,1.8
+028,Colchester School District,2004-05,0.4,0.7
+268,Common Ground High School District,2004-05,0.0,0.0
+900,Connecticut Technical High School System,2004-05,0.1,0.1
+032,Coventry School District,2004-05,0.7,0.7
+033,Cromwell School District,2004-05,0.7,0.9
+034,Danbury School District,2004-05,1.5,2.8
+035,Darien School District,2004-05,0.0,0.4
+037,Derby School District,2004-05,0.0,0.5
+040,East Granby School District,2004-05,0.8,0.0
+041,East Haddam School District,2004-05,0.0,0.6
+042,East Hampton School District,2004-05,0.0,0.0
+043,East Hartford School District,2004-05,1.3,1.9
+044,East Haven School District,2004-05,0.3,0.2
+045,East Lyme School District,2004-05,0.5,0.2
+047,East Windsor School District,2004-05,1.8,2.3
+048,Ellington School District,2004-05,0.0,0.9
+049,Enfield School District,2004-05,1.2,3.8
+272,Explorations District,2004-05,2.4,0.0
+051,Fairfield School District,2004-05,0.4,1.2
+052,Farmington School District,2004-05,1.1,0.7
+054,Glastonbury School District,2004-05,0.1,0.2
+056,Granby School District,2004-05,0.0,0.3
+057,Greenwich School District,2004-05,0.6,0.9
+058,Griswold School District,2004-05,3.2,2.3
+059,Groton School District,2004-05,0.3,0.3
+060,Guilford School District,2004-05,0.5,0.2
+062,Hamden School District,2004-05,0.3,2.0
+064,Hartford School District,2004-05,4.5,6.8
+069,Killingly School District,2004-05,4.1,7.2
+071,Lebanon School District,2004-05,1.0,0.7
+072,Ledyard School District,2004-05,0.4,2.0
+074,Litchfield School District,2004-05,1.7,2.8
+076,Madison School District,2004-05,0.0,0.4
+077,Manchester School District,2004-05,0.5,1.7
+080,Meriden School District,2004-05,1.2,1.9
+083,Middletown School District,2004-05,1.4,1.9
+084,Milford School District,2004-05,2.1,2.0
+085,Monroe School District,2004-05,0.0,0.3
+086,Montville School District,2004-05,0.3,1.1
+088,Naugatuck School District,2004-05,1.4,2.5
+089,New Britain School District,2004-05,4.8,6.9
+090,New Canaan School District,2004-05,0.4,0.0
+091,New Fairfield School District,2004-05,0.4,0.7
+093,New Haven School District,2004-05,4.7,6.5
+095,New London School District,2004-05,9.4,5.6
+096,New Milford School District,2004-05,0.6,1.7
+094,Newington School District,2004-05,0.1,0.3
+097,Newtown School District,2004-05,0.6,1.7
+099,North Branford School District,2004-05,0.6,1.4
+101,North Haven School District,2004-05,0.2,0.6
+102,North Stonington School District,2004-05,1.4,0.7
+103,Norwalk School District,2004-05,0.8,0.8
+901,Norwich Free Academy,2004-05,0.6,0.8
+104,Norwich School District,2004-05,50.0,36.4
+106,Old Saybrook School District,2004-05,0.0,0.0
+109,Plainfield School District,2004-05,4.4,6.5
+110,Plainville School District,2004-05,0.2,0.7
+111,Plymouth School District,2004-05,1.4,3.4
+113,Portland School District,2004-05,0.0,0.0
+116,Putnam School District,2004-05,0.9,2.3
+201,Regional School District 01,2004-05,3.0,5.4
+204,Regional School District 04,2004-05,0.4,1.2
+205,Regional School District 05,2004-05,0.7,0.7
+206,Regional School District 06,2004-05,0.0,0.6
+207,Regional School District 07,2004-05,0.3,0.9
+208,Regional School District 08,2004-05,1.7,4.9
+209,Regional School District 09,2004-05,0.0,0.4
+210,Regional School District 10,2004-05,0.6,1.5
+211,Regional School District 11,2004-05,2.7,1.3
+212,Regional School District 12,2004-05,0.5,0.0
+213,Regional School District 13,2004-05,0.4,0.3
+214,Regional School District 14,2004-05,0.6,0.3
+215,Regional School District 15,2004-05,0.6,1.2
+216,Regional School District 16,2004-05,0.5,3.1
+217,Regional School District 17,2004-05,0.0,0.0
+218,Regional School District 18,2004-05,1.1,1.4
+219,Regional School District 19,2004-05,1.5,2.5
+118,Ridgefield School District,2004-05,0.1,0.9
+119,Rocky Hill School District,2004-05,0.6,1.7
+124,Seymour School District,2004-05,2.9,2.7
+126,Shelton School District,2004-05,0.0,0.0
+128,Simsbury School District,2004-05,0.1,0.4
+129,Somers School District,2004-05,1.1,1.7
+132,South Windsor School District,2004-05,0.6,1.0
+131,Southington School District,2004-05,1.6,1.8
+134,Stafford School District,2004-05,0.0,2.1
+282,Stamford Academy,2004-05,0.0,0.0
+135,Stamford School District,2004-05,1.9,1.9
+137,Stonington School District,2004-05,1.4,2.5
+138,Stratford School District,2004-05,0.8,1.9
+139,Suffield School District,2004-05,0.0,0.0
+269,The Bridge Academy District,2004-05,1.8,1.6
+902,The Gilbert School,2004-05,1.1,4.6
+140,Thomaston School District,2004-05,1.0,2.0
+141,Thompson School District,2004-05,2.4,2.6
+142,Tolland School District,2004-05,0.0,0.0
+143,Torrington School District,2004-05,6.0,8.6
+144,Trumbull School District,2004-05,0.0,0.0
+146,Vernon School District,2004-05,2.6,5.0
+148,Wallingford School District,2004-05,1.2,2.1
+151,Waterbury School District,2004-05,2.0,2.7
+152,Waterford School District,2004-05,1.5,1.0
+153,Watertown School District,2004-05,0.8,1.9
+155,West Hartford School District,2004-05,0.9,1.6
+156,West Haven School District,2004-05,0.9,2.1
+154,Westbrook School District,2004-05,0.0,0.0
+157,Weston School District,2004-05,0.0,0.3
+158,Westport School District,2004-05,0.0,0.0
+159,Wethersfield School District,2004-05,0.3,1.7
+161,Wilton School District,2004-05,0.8,0.0
+162,Winchester School District,2004-05,11.1,9.5
+163,Windham School District,2004-05,3.9,3.7
+165,Windsor Locks School District,2004-05,1.7,1.9
+164,Windsor School District,2004-05,1.0,2.6
+166,Wolcott School District,2004-05,1.6,3.1
+903,Woodstock Academy,2004-05,1.4,0.6
+002,Ansonia School District,2003-04,3.3,2.7
+244,Area Cooperative Educational Services,2003-04,0.0,6.7
+004,Avon School District,2003-04,0.0,0.0
+007,Berlin School District,2003-04,0.5,1.2
+009,Bethel School District,2003-04,0.0,0.0
+011,Bloomfield School District,2003-04,3.1,2.5
+012,Bolton School District,2003-04,0.0,0.0
+014,Branford School District,2003-04,1.0,1.4
+015,Bridgeport School District,2003-04,4.1,5.9
+017,Bristol School District,2003-04,1.0,1.4
+018,Brookfield School District,2003-04,0.0,0.0
+023,Canton School District,2003-04,0.5,0.4
+241,Capitol Region Education Council,2003-04,0.0,0.0
+025,Cheshire School District,2003-04,0.9,1.4
+027,Clinton School District,2003-04,0.0,0.9
+028,Colchester School District,2003-04,0.0,1.2
+268,Common Ground High School District,2003-04,0.0,1.8
+900,Connecticut Technical High School System,2003-04,0.6,0.5
+032,Coventry School District,2003-04,0.0,0.7
+033,Cromwell School District,2003-04,0.0,1.4
+034,Danbury School District,2003-04,1.7,2.8
+035,Darien School District,2003-04,0.2,0.6
+037,Derby School District,2003-04,1.0,0.5
+040,East Granby School District,2003-04,0.0,0.8
+041,East Haddam School District,2003-04,0.0,3.3
+042,East Hampton School District,2003-04,0.4,0.4
+043,East Hartford School District,2003-04,2.1,2.4
+044,East Haven School District,2003-04,0.2,0.4
+045,East Lyme School District,2003-04,0.8,1.8
+047,East Windsor School District,2003-04,0.9,3.6
+048,Ellington School District,2003-04,2.1,2.3
+049,Enfield School District,2003-04,1.7,3.3
+272,Explorations District,2003-04,4.7,7.7
+051,Fairfield School District,2003-04,0.3,0.9
+052,Farmington School District,2003-04,0.8,1.2
+054,Glastonbury School District,2003-04,0.2,0.3
+056,Granby School District,2003-04,1.3,0.7
+057,Greenwich School District,2003-04,0.6,0.7
+058,Griswold School District,2003-04,3.4,3.8
+059,Groton School District,2003-04,0.5,0.4
+060,Guilford School District,2003-04,0.4,0.7
+062,Hamden School District,2003-04,0.9,1.2
+064,Hartford School District,2003-04,3.1,4.0
+069,Killingly School District,2003-04,4.5,6.0
+071,Lebanon School District,2003-04,1.3,0.7
+072,Ledyard School District,2003-04,1.3,2.0
+074,Litchfield School District,2003-04,0.5,1.0
+076,Madison School District,2003-04,0.4,0.6
+077,Manchester School District,2003-04,0.8,1.9
+080,Meriden School District,2003-04,1.9,2.4
+083,Middletown School District,2003-04,0.4,0.4
+084,Milford School District,2003-04,0.5,0.9
+085,Monroe School District,2003-04,0.0,0.3
+086,Montville School District,2003-04,0.3,0.9
+088,Naugatuck School District,2003-04,1.3,3.1
+089,New Britain School District,2003-04,3.9,5.5
+090,New Canaan School District,2003-04,0.0,0.2
+091,New Fairfield School District,2003-04,0.4,0.7
+093,New Haven School District,2003-04,5.4,6.9
+095,New London School District,2003-04,6.1,11.2
+096,New Milford School District,2003-04,0.3,0.6
+094,Newington School District,2003-04,0.2,0.4
+097,Newtown School District,2003-04,0.8,1.3
+099,North Branford School District,2003-04,0.9,0.6
+101,North Haven School District,2003-04,0.0,1.1
+102,North Stonington School District,2003-04,2.2,3.0
+103,Norwalk School District,2003-04,0.8,0.8
+901,Norwich Free Academy,2003-04,1.1,0.9
+104,Norwich School District,2003-04,36.4,33.3
+106,Old Saybrook School District,2003-04,0.0,0.0
+109,Plainfield School District,2003-04,4.8,5.9
+110,Plainville School District,2003-04,1.6,1.3
+111,Plymouth School District,2003-04,1.3,2.8
+113,Portland School District,2003-04,0.7,0.7
+116,Putnam School District,2003-04,4.1,3.9
+201,Regional School District 01,2003-04,3.4,2.3
+204,Regional School District 04,2003-04,3.3,6.8
+205,Regional School District 05,2003-04,0.2,1.7
+206,Regional School District 06,2003-04,0.5,1.2
+207,Regional School District 07,2003-04,0.8,1.6
+208,Regional School District 08,2003-04,0.8,2.9
+209,Regional School District 09,2003-04,0.4,0.7
+210,Regional School District 10,2003-04,0.8,1.5
+211,Regional School District 11,2003-04,1.6,5.1
+212,Regional School District 12,2003-04,3.6,1.4
+213,Regional School District 13,2003-04,0.4,0.0
+214,Regional School District 14,2003-04,0.2,0.0
+215,Regional School District 15,2003-04,0.6,1.6
+216,Regional School District 16,2003-04,2.1,1.4
+217,Regional School District 17,2003-04,0.0,0.0
+218,Regional School District 18,2003-04,0.4,0.9
+219,Regional School District 19,2003-04,1.1,1.5
+118,Ridgefield School District,2003-04,0.3,0.3
+119,Rocky Hill School District,2003-04,0.6,0.6
+124,Seymour School District,2003-04,1.4,3.7
+126,Shelton School District,2003-04,0.9,2.4
+128,Simsbury School District,2003-04,0.3,0.6
+129,Somers School District,2003-04,0.4,0.4
+132,South Windsor School District,2003-04,0.8,0.7
+131,Southington School District,2003-04,0.6,1.5
+134,Stafford School District,2003-04,1.6,3.5
+135,Stamford School District,2003-04,2.5,3.9
+137,Stonington School District,2003-04,1.8,3.0
+138,Stratford School District,2003-04,1.0,2.7
+139,Suffield School District,2003-04,0.5,1.3
+269,The Bridge Academy District,2003-04,2.8,1.5
+902,The Gilbert School,2003-04,1.5,3.4
+140,Thomaston School District,2003-04,1.1,2.2
+141,Thompson School District,2003-04,1.1,2.1
+142,Tolland School District,2003-04,0.2,0.5
+143,Torrington School District,2003-04,2.4,3.7
+144,Trumbull School District,2003-04,0.3,0.1
+146,Vernon School District,2003-04,1.4,2.8
+148,Wallingford School District,2003-04,1.0,1.3
+151,Waterbury School District,2003-04,2.9,3.9
+152,Waterford School District,2003-04,0.2,1.5
+153,Watertown School District,2003-04,1.3,1.1
+155,West Hartford School District,2003-04,0.5,1.6
+156,West Haven School District,2003-04,0.6,1.0
+154,Westbrook School District,2003-04,0.0,1.3
+157,Weston School District,2003-04,0.0,0.0
+158,Westport School District,2003-04,0.0,0.1
+159,Wethersfield School District,2003-04,0.9,1.3
+161,Wilton School District,2003-04,0.2,0.2
+163,Windham School District,2003-04,1.5,3.0
+165,Windsor Locks School District,2003-04,3.5,3.6
+164,Windsor School District,2003-04,2.2,2.5
+166,Wolcott School District,2003-04,1.4,1.8
+903,Woodstock Academy,2003-04,5.5,2.9

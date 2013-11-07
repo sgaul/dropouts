@@ -1,0 +1,155 @@
+---
+title       : Dropout rates
+subtitle    : Hartford regional data and indicators
+author      : Scott Gaul
+job         : Community Indicators Project
+framework   : minimal        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [parcoords]
+ext_widgets : {rCharts: ["libraries/nvd3"]} 
+mode        : selfcontained # {standalone, draft}
+---
+
+## Data and limitations
+
+Dropout rates in Connecticut are [reported by SDE](http://sdeportal.ct.gov/Cedar/WEB/ct_report/DropoutDT.aspx). The Census Bureau reports data on the percent of adults without a high-school degree, but does not directly report dropouts. 
+
+The most current data from SDE is three years old - for 2010 - although data is available back to 2003-04. (Cumulative dropout rates are only published through 2008.)
+
+## What do we already know?
+
+Below are references for some local, regional and national reports that use dropout rates, with some details on how the data is used. 
+
+### Local
+
+* [Health Equity Index](http://www.cadh.org/health-equity/health-equity-index.html): CADH's health equity index includes cumulative (four-year) dropout rates in the 'Education' domain, but the [health needs assessment for Hartford](http://hhs.hartford.gov/Shared%20Documents/Community%20health%20needs%20assessment%202012.pdf) from 2012 does not directly reference dropout rates. 
+* [CT Voices for Children](http://www.ctvoices.org/) plans to include dropout rates in reports for the region which will be released in the coming months. 
+
+### Other relevant efforts
+
+* [Boston Indicators Project](http://www.bostonindicators.org/): The [most recent report](http://www.bostonindicators.org/~/media/Files/IndicatorsReports/Reports/Indicator%20Reports/Indicators2012.pdf) mostly covers wages and employment for high school dropouts in the workforce and does not look at dropout rates directly.
+* [What Matters to Metros](http://www.thefundneo.org/what-matters/what-matters-metros) is a project looking at economic competitiveness via a funder's collaborative in Northeast Ohio. Their model includes dropout rates as one factor. 
+* [The Declaration Initiative](http://15th-www.declarationinitiative.org/poverty-in-america/6-deadly-poverty-trap-triggers) identifies 'Failure to graduate from high school' as one of six 'Poverty Trap Triggers' that 'undermine basic quality of life.'
+
+Chronic absenteeism has also been discussed as an indicator that is related with and predictive of dropout rates. 
+
+## Sample results
+
+Overall dropout rates for the region rose slightly over the period for which we have data. 
+
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=4}
+dropouts <- read.csv("Annual_Dropout_Percentage_Rates_across_Grades_9-12.csv")
+dropouts <- subset(dropouts, dropouts$District.Name %in% levels(districts$district))
+dropouts$District.Name <- factor(dropouts$District.Name)
+dropouts$District.Type <- ifelse(dropouts$District.Name %in% 
+                                   c("Bloomfield School District",
+                                   "East Hartford School District",
+                                     "East Windsor School District",
+                                     "Hartford School District",
+                                     "Manchester School District",
+                                     "Vernon School District",
+                                     "Windsor School District",
+                                     "Windsor Locks School District"), 
+                                   "Alliance District","Not Alliance District")
+dropoutsregion <- ddply(dropouts,.(School.Year),summarise,
+                        wm=weighted.mean(Annual.Dropout.Rate,Enrollment,na.rm=TRUE))
+
+ggplot(data = dropoutsregion, aes(x = as.character(School.Year), y = wm)) + 
+  geom_line(aes(group = "")) + geom_point() +
+  theme_minimal() + 
+  ylim(0,5) + 
+  labs(x = "School Year", y = "Dropout rate") + 
+  scale_x_discrete(expand = c(0, 0))
+```
+
+Most of the increase occurred in the eight Alliance districts in the region. 
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=4}
+dropoutsalliance <- ddply(dropouts,.(School.Year, District.Type),summarise,
+                        wm=weighted.mean(Annual.Dropout.Rate,Enrollment,na.rm=TRUE))
+
+ggplot(data = dropoutsalliance, aes(x = as.character(School.Year), y = wm)) + 
+  geom_line(aes(group = District.Type, colour = District.Type)) + geom_point() +
+  theme_minimal() + 
+  ylim(0,10) + 
+  labs(x = "School Year", y = "Dropout rate") + 
+  scale_x_discrete(expand = c(0, 0))
+```
+
+For all districts, Hartford has the highest rate, followed by Vernon. As with graduation rates, Stafford and Enfield are the two districts with above average dropout rates that are not Alliance Districts. The districts with the highest rates all saw increases over the period. 
+
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=7}
+dropoutsdistrict <- ddply(dropouts,.(School.Year, District.Name),summarise,
+                        wm=weighted.mean(Annual.Dropout.Rate,Enrollment,na.rm=TRUE))
+dropoutsdistrict <- cast(dropoutsdistrict, District.Name ~ School.Year)
+names(dropoutsdistrict)[2:8] <- c("X04","X05","X06","X07","X08","X09","X10")
+dropoutsdistrict$District.Name <- reorder(dropoutsdistrict$District.Name, dropoutsdistrict$X10)
+library(grid)
+ggplot(data = dropoutsdistrict, aes(y = District.Name, yend = District.Name, x = X04, xend = X10)) + 
+  geom_segment(arrow = arrow(type = "open"), aes(group = District.Name)) + 
+  labs(y = NULL, x = "Dropout rate") + 
+  geom_vline(xintercept = 1.97, alpha = 0.2) + 
+  theme_minimal()
+```
+
+The results by school are also displayed below.
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=9}
+dropoutsschool <- cast(dropouts, School.Name ~ School.Year, value = "Annual.Dropout.Rate")
+names(dropoutsschool)[2:8] <- c("X04","X05","X06","X07","X08","X09","X10")
+dropoutsschool$School.Name <- reorder(dropoutsschool$School.Name, dropoutsschool$X10)
+library(grid)
+ggplot(data = subset(dropoutsschool, X10 >= 0), aes(y = School.Name, yend = School.Name, x = X04, xend = X10)) + 
+  geom_segment(arrow = arrow(type = "open"), aes(group = School.Name)) + 
+  geom_point(aes(x = X10)) +
+  labs(y = NULL, x = "Dropout rate") + 
+  geom_vline(xintercept = 1.97, alpha = 0.2) + 
+  theme_minimal()
+```
+
+Dropout rates by grade are also published; mean and median rates by grade are plotted below. In both cases, dropout rates increase slightly at higher grade levels. 
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height = 3}
+ggplot(data = ddply(melt(dropouts[c(4,9:12)]), .(variable), summarise, mean = mean(value, na.rm = TRUE), median = median(value, na.rm = TRUE))) + 
+  geom_line(aes(group = "",x = variable, y = mean)) + 
+  geom_line(aes(group = "",x = variable, y = median)) + 
+  theme_minimal() + 
+  ylim(0,5) + 
+  labs(x = "Grade (9 - 12)", y = "Dropout rate")
+```
+
+SDE also provides two breakouts for the data - by race / ethnicity and by gender. For the race/ethnicity breakout, dropout rates are displayed below.  
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=11, fig.width = 10}
+dropoutrace <- read.csv("Annual_Dropout_Percentage_Rates_by_Race_Ethnicity.csv")
+dropoutrace <- subset(dropoutrace, 
+                      dropoutrace$District.Name %in% levels(districts$district))
+dropoutrace$District.Name <- factor(dropoutrace$District.Name)
+dropoutrace <- melt(dropoutrace, id.vars=c("District.ID","District.Name","School.Year"))
+ggplot(data = subset(dropoutrace, !(variable %in% c("Asian","American.Indian")))) + 
+#  geom_boxplot(aes(y = value, x = School.Year)) + 
+  geom_line(aes(y = value, x = School.Year, group = variable, colour = variable)) + 
+  theme_minimal() + 
+  labs(x = "School Year", y = "Dropout rate") + 
+  facet_wrap(~ District.Name, ncol = 3, scales = "free_y")
+```
+
+Dropout rates by gender are below; rates are generally higher for male students, with a few occasional exceptions. 
+
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=11}
+dropoutgender <- read.csv("Annual_Dropout_Percentage_Rates_by_Gender.csv")
+dropoutgender <- subset(dropoutgender, 
+                      dropoutgender$District.Name %in% levels(districts$district))
+dropoutgender$District.Name <- factor(dropoutgender$District.Name)
+dropoutgender <- melt(dropoutgender, id.vars=c("District.ID","District.Name","School.Year"))
+ggplot(data = dropoutgender) + 
+  geom_line(aes(y = value, x = School.Year, group = variable, colour = variable)) + 
+  theme_minimal() + 
+  labs(x = "School Year", y = "Dropout rate") + 
+  facet_wrap(~ District.Name, ncol = 3, scales = "free_y")
+```
+
