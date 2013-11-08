@@ -78,19 +78,15 @@ ggplot(data = dropoutsalliance, aes(x = as.character(School.Year), y = wm)) +
   scale_x_discrete(expand = c(0, 0))
 ```
 
-For all districts, Hartford has the highest rate, followed by Vernon. As with graduation rates, Stafford and Enfield are the two districts with above average dropout rates that are not Alliance Districts. The districts with the highest rates all saw increases over the period. 
-
+For all districts, Hartford has the highest rate, followed by Vernon. (The graph displays the average rate from 2003 to 2010.) As with graduation rates, Stafford and Enfield are the two districts with above average dropout rates that are not Alliance Districts. The districts with the highest rates all saw increases over the period. 
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=7}
-dropoutsdistrict <- ddply(dropouts,.(School.Year, District.Name),summarise,
+dropoutsdistrict <- ddply(dropouts,.(District.Name),summarise,
                         wm=weighted.mean(Annual.Dropout.Rate,Enrollment,na.rm=TRUE))
-dropoutsdistrict <- cast(dropoutsdistrict, District.Name ~ School.Year)
-names(dropoutsdistrict)[2:8] <- c("X04","X05","X06","X07","X08","X09","X10")
-dropoutsdistrict$District.Name <- reorder(dropoutsdistrict$District.Name, dropoutsdistrict$X10)
-library(grid)
-ggplot(data = dropoutsdistrict, aes(y = District.Name, yend = District.Name, x = X04, xend = X10)) + 
-  geom_segment(arrow = arrow(type = "open"), aes(group = District.Name)) + 
-  labs(y = NULL, x = "Dropout rate") + 
+dropoutsdistrict$District.Name <- reorder(dropoutsdistrict$District.Name,dropoutsdistrict$wm)
+ggplot(data = dropoutsdistrict, aes(y = District.Name, x = wm)) + 
+  geom_point(aes(group = District.Name)) + 
+  labs(y = NULL, x = "Dropout rate (average 2003 - 2010)") + 
   geom_vline(xintercept = 1.97, alpha = 0.2) + 
   theme_minimal()
 ```
@@ -98,14 +94,12 @@ ggplot(data = dropoutsdistrict, aes(y = District.Name, yend = District.Name, x =
 The results by school are also displayed below.
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height=9}
-dropoutsschool <- cast(dropouts, School.Name ~ School.Year, value = "Annual.Dropout.Rate")
-names(dropoutsschool)[2:8] <- c("X04","X05","X06","X07","X08","X09","X10")
-dropoutsschool$School.Name <- reorder(dropoutsschool$School.Name, dropoutsschool$X10)
-library(grid)
-ggplot(data = subset(dropoutsschool, X10 >= 0), aes(y = School.Name, yend = School.Name, x = X04, xend = X10)) + 
-  geom_segment(arrow = arrow(type = "open"), aes(group = School.Name)) + 
-  geom_point(aes(x = X10)) +
-  labs(y = NULL, x = "Dropout rate") + 
+dropoutsschool <- ddply(dropouts,.(School.Name),summarise,
+                        wm=weighted.mean(Annual.Dropout.Rate,Enrollment,na.rm=TRUE))
+dropoutsschool$School.Name <- reorder(dropoutsschool$School.Name,dropoutsschool$wm)
+ggplot(data = subset(dropoutsschool, wm > 0), aes(y = School.Name, x = wm)) + 
+  geom_point() +
+  labs(y = NULL, x = "Dropout rate (average 2003 - 2010)") + 
   geom_vline(xintercept = 1.97, alpha = 0.2) + 
   theme_minimal()
 ```

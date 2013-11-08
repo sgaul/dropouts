@@ -47,8 +47,7 @@ Most of the increase occurred in the eight Alliance districts in the region.
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
 
 
-For all districts, Hartford has the highest rate, followed by Vernon. As with graduation rates, Stafford and Enfield are the two districts with above average dropout rates that are not Alliance Districts. The districts with the highest rates all saw increases over the period. 
-
+For all districts, Hartford has the highest rate, followed by Vernon. (The graph displays the average rate from 2003 to 2010.) As with graduation rates, Stafford and Enfield are the two districts with above average dropout rates that are not Alliance Districts. The districts with the highest rates all saw increases over the period. 
 
 ![plot of chunk unnamed-chunk-3](assets/fig/unnamed-chunk-3.png) 
 
